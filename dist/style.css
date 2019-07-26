@@ -1,0 +1,23 @@
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
+article {
+  text-align: center;
+  margin-top: 3em;
+}
+
+article p {
+  text-align: center;
+  font-size: 4.3em;
+  display: inline;
+  font-family: 'PT Mono', monospace;
+}
+
+#timer-bin {
+  font-size: 2.75em;
+  text-align: center;
+  font-family: 'PT Mono', monospace;
+}
+
